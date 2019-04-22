@@ -14,3 +14,4 @@ ArrayList<String>al=cs.getCourses();
 return new ModelAndView("SHOW","AL",al);
 }
 }
+uuuuuuuuuuuuuuuuuuuuuuuuu
